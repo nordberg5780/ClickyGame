@@ -1,0 +1,74 @@
+[
+    {
+      "id": 0,
+      "name": "Bill Gates",
+      "image": "assets/images/Bill-Gates-Mugshot-Celebrity-Mugshots.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 1,
+      "name": "Al Capone",
+      "image": "assets/images/capone_al.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 2,
+      "name": "Elvis Presley",
+      "image": "assets/images/Elvis-Presley.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 3,
+      "name": "Matthew McConaughey",
+      "image": "assets/images/Matthew-McConaughey.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 4,
+      "name": "Mick Jagger",
+      "image": "assets/images/Mick-Jagger.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 5,
+      "name": "Nick Nolte",
+      "image": "assets/images/Nick-Nolte.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 6,
+      "name": "Pablo Escobar",
+      "image": "assets/images/pablo-escobar.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 7,
+      "name": "Snoop Dog",
+      "image": "assets/images/Snoop-Dog.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 8,
+      "name": "Tiger Woods",
+      "image": "assets/images/tiger.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 9,
+      "name": "Mike Tyson",
+      "image": "assets/images/tyson.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 10,
+      "name": "Vince Vaughn",
+      "image": "assets/images/Vince-Vaughn.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 11,
+      "name": "Jimmi Hendrix",
+      "image": "assets/images/jim.jpg",
+      "isClicked": false
+    }
+  ]
